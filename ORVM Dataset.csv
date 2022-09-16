@@ -1,0 +1,118 @@
+﻿SL No,Vehicle Type ,ORVM Type,Auto Dimming ,Price,Lead Time,Quality,Vendor
+1,Passenger,Manual,No,1500,5,2,Forvia
+2,Passenger,Manual,No,1500,6,1,Ficosa Internacional SA
+3,Passenger,Electric,Yes,1600,5,0,Ficosa Internacional SA
+4,Light Commercial,Manual,No,1800,7,2,"Magna International Inc.,"
+5,Light Commercial,Manual,No,1900,6,2,Mitsuba Corp
+6,Heavy Commercial,Manual,No,2000,7,1,Mitsuba Corp
+7,Heavy Commercial,Manual,No,2200,10,2,"Magna International Inc.,"
+8,Passenger,Electric,Yes,1700,5,2,Forvia
+9,Passenger,Manual,No,1600,3,2,Murakami Corporation
+10,Light Commercial,Manual,No,1600,10,0, Murakami Corporation
+11,Heavy Commercial,Manual,No,1900,5,0, Murakami Corporation
+12,Passenger,Manual,No,1200,3,0,"Magna International Inc.,"
+13,Passenger,Manual,No,1500,10,2,Mitsuba Corp
+14,Passenger,Manual,No,1400,7,1,A1
+15,Passenger,Manual,No,1400,5,1,ABC
+16,Passenger,Manual,No,1400,5,1,XYZ
+17,Passenger,Manual,No,1400,7,1,G Corporation
+18,Passenger,Manual,No,1400,5,1,RK
+19,Passenger,Manual,No,1500,7,0,Suppliers
+20,Passenger,Manual,No,1500,5,2,Forvia
+21,Passenger,Manual,No,1500,6,1,Ficosa Internacional SA
+22,Passenger,Electric,Yes,1600,5,0,Ficosa Internacional SA
+23,Light Commercial,Manual,No,1800,7,2,"Magna International Inc.,"
+24,Light Commercial,Manual,No,1900,6,2,Mitsuba Corp
+25,Heavy Commercial,Manual,No,2000,7,1,Mitsuba Corp
+26,Heavy Commercial,Manual,No,2200,10,2,"Magna International Inc.,"
+27,Passenger,Electric,Yes,1700,5,2,Forvia
+28,Passenger,Manual,No,1600,3,2,Murakami Corporation
+29,Light Commercial,Manual,No,1600,10,0, Murakami Corporation
+30,Heavy Commercial,Manual,No,1900,5,0, Murakami Corporation
+31,Passenger,Manual,No,1200,3,0,"Magna International Inc.,"
+32,Passenger,Manual,No,1500,10,2,Mitsuba Corp
+33,Passenger,Manual,No,1400,7,1,A1
+34,Passenger,Manual,No,1400,5,1,ABC
+35,Passenger,Manual,No,1400,5,1,XYZ
+36,Passenger,Manual,No,1400,7,1,G Corporation
+37,Passenger,Manual,No,1400,5,1,RK
+38,Passenger,Manual,No,1500,7,0,Suppliers
+39,Passenger,Manual,No,1500,5,2,Forvia
+40,Passenger,Manual,No,1500,6,1,Ficosa Internacional SA
+41,Passenger,Electric,Yes,1600,5,0,Ficosa Internacional SA
+42,Light Commercial,Manual,No,1800,7,2,"Magna International Inc.,"
+43,Light Commercial,Manual,No,1900,6,2,Mitsuba Corp
+44,Heavy Commercial,Manual,No,2000,7,1,Mitsuba Corp
+45,Heavy Commercial,Manual,No,2200,10,2,"Magna International Inc.,"
+46,Passenger,Electric,Yes,1700,5,2,Forvia
+47,Passenger,Manual,No,1600,3,2,Murakami Corporation
+48,Light Commercial,Manual,No,1600,10,0, Murakami Corporation
+49,Heavy Commercial,Manual,No,1900,5,0, Murakami Corporation
+50,Passenger,Manual,No,1200,3,0,"Magna International Inc.,"
+51,Passenger,Manual,No,1500,10,2,Mitsuba Corp
+52,Passenger,Manual,No,1400,7,1,A1
+53,Passenger,Manual,No,1400,5,1,ABC
+54,Passenger,Manual,No,1400,5,1,XYZ
+55,Passenger,Manual,No,1400,7,1,G Corporation
+56,Passenger,Manual,No,1400,5,1,RK
+57,Passenger,Manual,No,1500,7,0,Suppliers
+59,Passenger,Manual,No,1500,5,2,Forvia
+60,Passenger,Manual,No,1500,6,1,Ficosa Internacional SA
+61,Passenger,Electric,Yes,1600,5,0,Ficosa Internacional SA
+62,Light Commercial,Manual,No,1800,7,2,"Magna International Inc.,"
+63,Light Commercial,Manual,No,1900,6,2,Mitsuba Corp
+64,Heavy Commercial,Manual,No,2000,7,1,Mitsuba Corp
+65,Heavy Commercial,Manual,No,2200,10,2,"Magna International Inc.,"
+66,Passenger,Electric,Yes,1700,5,2,Forvia
+67,Passenger,Manual,No,1600,3,2,Murakami Corporation
+68,Light Commercial,Manual,No,1600,10,0, Murakami Corporation
+69,Heavy Commercial,Manual,No,1900,5,0, Murakami Corporation
+70,Passenger,Manual,No,1200,3,0,"Magna International Inc.,"
+71,Passenger,Manual,No,1500,10,2,Mitsuba Corp
+72,Passenger,Manual,No,1400,7,1,A1
+73,Passenger,Manual,No,1400,5,1,ABC
+74,Passenger,Manual,No,1400,5,1,XYZ
+75,Passenger,Manual,No,1400,7,1,G Corporation
+76,Passenger,Manual,No,1400,5,1,RK
+77,Passenger,Manual,No,1500,7,0,Suppliers
+78,Passenger,Manual,No,1500,5,2,Forvia
+79,Passenger,Manual,No,1500,6,1,Ficosa Internacional SA
+80,Passenger,Electric,Yes,1600,5,0,Ficosa Internacional SA
+81,Light Commercial,Manual,No,1800,7,2,"Magna International Inc.,"
+82,Light Commercial,Manual,No,1900,6,2,Mitsuba Corp
+83,Heavy Commercial,Manual,No,2000,7,1,Mitsuba Corp
+84,Heavy Commercial,Manual,No,2200,10,2,"Magna International Inc.,"
+85,Passenger,Electric,Yes,1700,5,2,Forvia
+86,Passenger,Manual,No,1600,3,2,Murakami Corporation
+87,Light Commercial,Manual,No,1600,10,0, Murakami Corporation
+88,Heavy Commercial,Manual,No,1900,5,0, Murakami Corporation
+89,Passenger,Manual,No,1200,3,0,"Magna International Inc.,"
+90,Passenger,Manual,No,1500,10,2,Mitsuba Corp
+91,Passenger,Manual,No,1400,7,1,A1
+92,Passenger,Manual,No,1400,5,1,ABC
+93,Passenger,Manual,No,1400,5,1,XYZ
+94,Passenger,Manual,No,1400,7,1,G Corporation
+95,Passenger,Manual,No,1400,5,1,RK
+96,Passenger,Manual,No,1500,7,0,Suppliers
+97,Passenger,Manual,No,1500,5,2,Forvia
+98,Passenger,Manual,No,1500,6,1,Ficosa Internacional SA
+99,Passenger,Electric,Yes,1600,5,0,Ficosa Internacional SA
+100,Light Commercial,Manual,No,1800,7,2,"Magna International Inc.,"
+101,Light Commercial,Manual,No,1900,6,2,Mitsuba Corp
+102,Heavy Commercial,Manual,No,2000,7,1,Mitsuba Corp
+103,Heavy Commercial,Manual,No,2200,10,2,"Magna International Inc.,"
+104,Passenger,Electric,Yes,1700,5,2,Forvia
+105,Passenger,Manual,No,1600,3,2,Murakami Corporation
+106,Light Commercial,Manual,No,1600,10,0, Murakami Corporation
+107,Heavy Commercial,Manual,No,1900,5,0, Murakami Corporation
+108,Passenger,Manual,No,1200,3,0,"Magna International Inc.,"
+109,Passenger,Manual,No,1500,10,2,Mitsuba Corp
+110,Passenger,Manual,No,1400,7,1,A1
+111,Passenger,Manual,No,1400,5,1,ABC
+112,Passenger,Manual,No,1400,5,1,XYZ
+113,Passenger,Manual,No,1400,7,1,G Corporation
+114,Passenger,Manual,No,1400,5,1,RK
+115,Passenger,Manual,No,1500,7,0,Suppliers
+,,,,,,,
+,,,,,,,
+,,,,,,,
