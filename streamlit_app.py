@@ -31,7 +31,7 @@ orvm_data.info()
 #data={'cust_rating':['Bad','Average','Good']}
 
 
-# In[ ]:
+
 
 
 #df_ordinal=pd.DataFrame(data)
