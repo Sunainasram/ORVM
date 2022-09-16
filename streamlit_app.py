@@ -197,10 +197,6 @@ def prediction(x_test, modeld):
 
 prediction(x_test, modeld)
 
-
-# In[ ]:
-
-
 # Function to calculate accuracy
 def cal_accuracy(y_test, prediction1):
     
@@ -208,73 +204,13 @@ def cal_accuracy(y_test, prediction1):
     classification_report(y_test, prediction1))
 
 
-# In[ ]:
-
 
 cal_accuracy(y_test,prediction1)
 
 
-# In[ ]:
 
 
 
-
-
-# In[ ]:
-
-
-pip install streamlit
-
-
-# In[ ]:
-
-
-import streamlit
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-get_ipython().run_line_magic('pip', 'freeze > requirements.txt')
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-pip install streamlit
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
 
 
 
